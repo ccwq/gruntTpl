@@ -1,9 +1,4 @@
-title: grunt任务配置范例
-tags: [grunt, node]
----
-
-
-github地址:
+地址:
 [https://github.com/ccwq/gruntTpl](https://github.com/ccwq/gruntTpl "gruntTpl")
 
 可以当做模板来使用，相比复杂繁琐的grunt-init项目，改范例只有两个文件Gruntfile.js和package.json.
